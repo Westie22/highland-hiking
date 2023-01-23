@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Kanit:wght@300;400&family=Lato:ital,wght@0,300;1,100&family=Poppins:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+    font-family: "Poppins", sans-serif;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.header {
+    background-color: purple;
+    color: #ffffff;
+    padding: 15px;
+}
+
+.menu {
+    float: left;
+    padding: 15px;
+}
+
+img {
+    width: 100%;
+}
