@@ -45,9 +45,9 @@ html {
 }
 
 .aside {
-  background-color: none;
+  background-color: #23baf0cd;
   padding: 15px;
-  color: black;
+  color: #ffffff;
   text-align: center;
   font-size: 14px;
   box-shadow: 0 1px 3px rgba(233, 129, 129, 0.12), 0 1px 2px rgba(230, 101, 101, 0.24);
@@ -74,7 +74,6 @@ img {
 }
 
 /* Media query for 600px tablet */
-
 @media only screen and (min-width: 600px) {
   .col-v-1 {width: 8.33%;}
   .col-v-2 {width: 16.66%;}
@@ -89,8 +88,9 @@ img {
   .col-v-11 {width: 91.66%;}
   .col-v-12 {width: 100%;}
 }
-@media only screen and (max-width: 1200px) {
-  /* For desktop: */
+
+/* Media query for Descktop */
+@media only screen and (min-width: 768px) {
   .col-1 {width: 8.33%;}
   .col-2 {width: 16.66%;}
   .col-3 {width: 25%;}
