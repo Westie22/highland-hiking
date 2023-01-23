@@ -27,3 +27,14 @@ html {
 img {
     width: 100%;
 }
+
+.footer {
+    background-color: #0099cc;
+    text-align: center;
+    font-size: 13px;
+    padding: 15px;
+    margin-top: 45px;
+  }
+  .footer > a{
+    color: beige;
+  }
