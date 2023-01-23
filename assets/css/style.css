@@ -39,6 +39,7 @@ html {
   box-shadow: 0 1px 3px rgba(231, 163, 163, 0.12), 0 1px 2px rgba(219, 128, 128, 0.24);
 }
 
+/* Bar color changed to darker mode when the cursor on */
 .menu li:hover {
   background-color: #0099cc;
 }
