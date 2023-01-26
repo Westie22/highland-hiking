@@ -75,7 +75,7 @@ The summer special event in the Isle of Skye Hiking is coming for this summer, s
 - Layout Grid/CSS is learned from [W3schools](https://www.w3schools.com/) and [YouTube](https://www.youtube.com/watch?v=mJgBOIoGihA&t=2335s) channel.
 - Social Media links are taken by Code Institute modules.
 
- ### Media
+ ## Photo & Commercial Links
  
  - The main photo used on the site is from this open source site [Pexels](https://www.pexels.com/)
  - Several commercial websites are linked to each bar for more information - Flight, The Isle of Skye, Food and Coming up are:
