@@ -60,3 +60,28 @@ A summer special even in the Isle of Skye Hiking is coming so don't miss it! It 
   
   ## Deployment
   
+- This site was deployed to GitHub pages. The steps to deploy are as below:
+  - In the GitHub repository, naviagte to the Setting tab
+  - From the soure section, left-side, select Page
+  - From the Page, the source section drop-down menu, select the Master Branch
+  - Underneath the Master Branch, selct 'main' and '/root' from the Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  The live link can be found here - https://westie22.github.io/highland-hiking/
+  
+  ## Credits
+  
+- HIGHLAND HIKING is inspried & referred by Code Institute modouls and projects of Love Running, Corders Coffee and some [YouTube](https://www.youtube.com/watch?v=B5jZ7TPX0yQ&t=144s) channel.
+- Layout Grid/CSS is learned from [W3schools](https://www.w3schools.com/) and [YouTube](https://www.youtube.com/watch?v=mJgBOIoGihA&t=2335s) channel.
+- Social Media links are takedn by Code Institute modules.
+
+ ### Media
+ 
+ - The photos used on the site is from this open source site [Pexels](https://www.pexels.com/).
+ - Several commercial websites are linked to each bar for more information - Flight, The Isle of Skye, Food and Coming up are:
+ 
+   - [Skycanner](https://www.skyscanner.ie/flights-to/skl/cheap-flights-to-isle-of-skye-airport.html)
+   - [Isle of Skye](https://www.isleofskye.com/skye-guide/travel-tips)
+   - [Food - Visit Scotland](https://www.visitscotland.com/blog/food-drink/best-scottish-food/)
+   - [Norther Lights - Visit Scotland](https://www.visitscotland.com/see-do/landscapes-nature/northern-lights/)
+
+  
