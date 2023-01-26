@@ -71,13 +71,13 @@ The summer special event in the Isle of Skye Hiking is coming for this summer, s
   
   ## Credits
   
-- HIGHLAND HIKING is inspried & referred by Code Institute modouls and projects of Love Running, Corders Coffee and some [YouTube](https://www.youtube.com/watch?v=B5jZ7TPX0yQ&t=144s) channel.
+- HIGHLAND HIKING is inspried & referred by Code Institute modoules and projects of Love Running, Corders Coffee and a [YouTube](https://www.youtube.com/watch?v=B5jZ7TPX0yQ&t=144s) channel.
 - Layout Grid/CSS is learned from [W3schools](https://www.w3schools.com/) and [YouTube](https://www.youtube.com/watch?v=mJgBOIoGihA&t=2335s) channel.
-- Social Media links are takedn by Code Institute modules.
+- Social Media links are taken by Code Institute modules.
 
  ### Media
  
- - The photos used on the site is from this open source site [Pexels](https://www.pexels.com/).
+ - The main photo used on the site is from this open source site [Pexels](https://www.pexels.com/)
  - Several commercial websites are linked to each bar for more information - Flight, The Isle of Skye, Food and Coming up are:
  
    - [Skycanner](https://www.skyscanner.ie/flights-to/skl/cheap-flights-to-isle-of-skye-airport.html)
