@@ -49,10 +49,10 @@ The summer special event in the Isle of Skye Hiking is coming for this summer, s
   ## Validator Testing
   
   * HTML
-    - No errors were returned when passing through the official [W3C Validator](assets/images/html_validator.png) for Home page.
+    - No errors were returned when passing through the official [W3C Validator](assets/images/html_validator.png](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwestie22.github.io%2Fhighland-hiking%2Findex.html) for Home page.
     
   * CSS
-    - No errors were found when passing throught the official [Jigsaw Validator](assets/images/css_validator.png).
+    - No errors were found when passing throught the official [Jigsaw Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwestie22.github.io%2Fhighland-hiking%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
     
   * Accessbility
     - I confirmed that the colors and fonts chosen are easy to ready and accessible by runnit it via Lighthouse in devtools.
