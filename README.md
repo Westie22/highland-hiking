@@ -69,7 +69,7 @@ The summer special event in the Isle of Skye Hiking is coming for this summer, s
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
   The live link can be found here - https://westie22.github.io/highland-hiking/
   
-  ## Credits
+ ## Credits
   
 - HIGHLAND HIKING is inspried & referred by Code Institute modoules and projects of Love Running, Corders Coffee and a [YouTube](https://www.youtube.com/watch?v=B5jZ7TPX0yQ&t=144s) channel.
 - Layout Grid/CSS is learned from [W3schools](https://www.w3schools.com/) and [YouTube](https://www.youtube.com/watch?v=mJgBOIoGihA&t=2335s) channel.
