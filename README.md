@@ -30,6 +30,23 @@ A summer special even in the Isle of Skye Hiking is coming so don't miss it! It 
  ![alt text](assets/images/contact_signup.png)
   
  
-  - On the right, there are extra information abou the event of Highland Hiking - the Isle of Skye.
+  - On the right, there are extra information about the event of Highland Hiking - the Isle of Skye.
   
   ![alt text](assets/images/right_side.png)
+ 
+ * In the middle, it's the main section which contains a picture.
+ 
+ ![alt text](assets/images/main.png)
+ 
+ * On the bottom, there are social medias that can be clicked and see the individual site.
+  
+  ![alt text](assets/images/social_links.png)
+  
+  ### Future Features
+  * More useful functions for users can be added, detailed navigation which can be created in different html files.
+  
+  ## Validator Testing
+  
+  * HTML
+    - No errors were returned when passing through the official [W3C Validator](
+  
