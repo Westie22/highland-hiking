@@ -2,7 +2,8 @@
 
 Welcome to the [HIGHLAND HIKING](https://westie22.github.io/highland-hiking/) website!
 This is a website of join/book tracking or hiking in Highland, Scotland for seasonal only. Highland has one of the most spectacle sceneries in the world!
-The summer special event in the Isle of Skye Hiking is coming for this summer, so don't miss it! Let your breath be taken away!
+The summer special event in the Isle of Skye Hiking is coming for this summer. 
+Don't miss it! Let your breath be taken away!
 
 ![alt text](assets/images/responsive_device.png)
 
