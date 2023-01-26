@@ -68,7 +68,15 @@ button {
   color: #ffffff;
   background-color: darkmagenta;
   padding: 2px;
-  width: 30%;
+  width: 25%;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 10px;
+  line-height: 1.2;
+}
+
+label {
+  margin: 15px 0px 5px 0;
 }
 
 .btn:hover {
