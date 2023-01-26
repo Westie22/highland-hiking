@@ -83,6 +83,6 @@ The summer special event in the Isle of Skye Hiking is coming for this summer, s
    - [Skycanner](https://www.skyscanner.ie/flights-to/skl/cheap-flights-to-isle-of-skye-airport.html)
    - [Isle of Skye](https://www.isleofskye.com/skye-guide/travel-tips)
    - [Food - Visit Scotland](https://www.visitscotland.com/blog/food-drink/best-scottish-food/)
-   - [Norther Lights - Visit Scotland](https://www.visitscotland.com/see-do/landscapes-nature/northern-lights/)
+   - [Northern Lights - Visit Scotland](https://www.visitscotland.com/see-do/landscapes-nature/northern-lights/)
 
   
