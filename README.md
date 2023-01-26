@@ -48,5 +48,15 @@ A summer special even in the Isle of Skye Hiking is coming so don't miss it! It 
   ## Validator Testing
   
   * HTML
-    - No errors were returned when passing through the official [W3C Validator](
+    - No errors were returned when passing through the official [W3C Validator](assets/images/html_validator.png) for Home page.
+    
+  * CSS
+    - No errors were found when passing throught the official [Jigsaw Validator](assets/images/css_validator.png).
+    
+  * Accessbility
+    - I confirmed that the colors and fonts chosen are easy to ready and accessible by runnit it via Lighthouse in devtools.
+    
+  ![alt text](assets/images/lighthouse.png)
+  
+  ## Deployment
   
